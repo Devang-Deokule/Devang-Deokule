@@ -5,13 +5,13 @@
 <h4 align="center">Aspiring Software Engineer | Full Stack Developer | Tech Enthusiast</h4>
 
 ###
-
+---
 <p align="left">👨‍💻 About Me:<br>🔭 I’m currently working as a Full Stack Developer on a real-world E-commerce project.<br>🌱 I’m expanding my skills in Java Full Stack, Spring Boot, React, and Next.js.<br>⚡ I love coding for fun too, building side projects from small experiments to real-world solutions.<br>👯 Always up for collaborating on interesting projects and contributing to open source.<br>💬 Passionate about web & app development, frontend/backend technologies, and solving tech challenges.<br>📫 Reach me at deokuledevang@gmail.com or connect on [LinkedIn](https://in.linkedin.com/in/devang-deokule-188584268).</p>
 
 ###
-
+---
 <h4 align="center">🚀 Skills & Technologies</h4>
-
+---
 ###
 
 <br clear="both">
