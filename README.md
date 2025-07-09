@@ -65,21 +65,3 @@
 </p>
 
 ---
-
-<h3 align="center">🎧 Currently Listening</h3>
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=1" alt="Spotify Recently Played" />
-</p>
-
----
-
-<h3 align="center">🕹️ Contribution Graph</h3>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devang-Deokule/Devang-Deokule/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devang-Deokule/Devang-Deokule/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Devang-Deokule/Devang-Deokule/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
