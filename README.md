@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me:
 - 🔭 Currently working as a **Full Stack Developer** on a real-world E-commerce project.
 - 🌱 Expanding my skills in **Java Full Stack**, **Spring Boot**, **React**, and **Next.js**.
-- ⚡ I love coding for fun and sovle promblems, building side projects from small experiments to real-world solutions.
+- ⚡ I love coding for **fun and sovle promblems**, building side projects from **small experiments to real-world solutions**.
 - 👯 Always up for **collaborating on interesting projects** and contributing to open source.
 - 💬 Passionate about **web & app development**, **frontend/backend technologies**, and **solving tech challenges**.
 - 📫 Reach me at **deokuledevang@gmail.com** or connect on [**LinkedIn**](https://in.linkedin.com/in/devang-deokule-188584268).
