@@ -53,15 +53,3 @@
 </p>
 
 ---
-
-<h3 align="center">📈 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devang-Deokule&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="Devang Deokule Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Devang-Deokule&theme=dracula&hide_border=false&border_radius=5" alt="Devang Deokule Streak Stats"/>
-</p>
-
----
